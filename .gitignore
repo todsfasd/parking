@@ -1,0 +1,14 @@
+# 실제 API 키가 들어있는 파일 - 절대 업로드 금지
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
